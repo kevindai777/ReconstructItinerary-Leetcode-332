@@ -3,6 +3,6 @@
 Leetcode Question 332 (Medium)
 
 Techniques Used in Question:
-Hashmap, Sorting, DFS
+Hashmap, Sorting, DFS, Graph
 
 [Link to Question](https://leetcode.com/problems/reconstruct-itinerary/)
